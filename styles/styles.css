@@ -26,3 +26,14 @@ a {
 h1 {
     text-align: center;
 }
+img {
+    width: 370px;
+    height: 230px;
+    ;
+}
+.images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+
+}
