@@ -23,6 +23,8 @@ Perfect for cultural explorers, diaspora communities, and anyone curious about A
 
 *Follow the easy on-screen steps to get your Akan name
 
+*To view through vercel use : https://vercel.com/kaynan-mwangi-kurarus-projects/akan-name-generator
+
 ## Known Bugs
 None currently.
 
