@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akan-Name-Generator</title>
+    <link rel="stylesheet" href="./styles/styles.css">
+</head>
+<body>
+    <nav class="navigation">
+        <div>
+            <a href="https://www2.hsp.org/exhibits/Balch%20exhibits/rites/akan.html">History</a>
+        </div>
+        <div>
+            <a href="https://aithor.com/essay-examples/akan-language-and-traditions-of-naming-children-essay">Culture</a>
+        </div>
+        <div>
+            <a href="https://en.wikipedia.org/wiki/Akan_names">Origin</a>
+        </div>
+        <div>
+            <a href="https://www.academia.edu/38537597/NAMING_OF_THE_AKAN_PEOPLE_docx">About</a>
+        </div>
+    </nav>
+    <header>
+    <h1>"Discover your Akan Name: Unveil the Ghanaian Tradition"</h1>
+    <p> Explore the rich cultural heritage of Ghana with our interactive tool that calculates the day of the week you were born and assigns you a unique Akan name based on your gender. In Akan culture, names are more than just labels-they carry the essence of the day you entered the world. Enter your birth date, select you gender, and embrace the timeless tradition of Akan naming!</p><br>
+    
+    <br><strong>For more information , use the navigation tab above</strong>
+    </header>
+    <br><footer>
+        <div class="container">
+        <label for="birthdate">Enter Your Birth Date</label><br>
+        <input type="date" id="birthdate" required><br>
+        <label for="gender">Select Your Gender</label><br>
+        <select id="gender" required>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+        </select><br>
+        <button onclick="calculateAkanName()">Get My Akan Name</button>
+        <!-- Output Section -->
+         <div id="output"></div>
+        </div>
+    </footer>
+    <script src="./src/script.js"></script>
+</body>
+</html>
