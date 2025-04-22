@@ -25,6 +25,8 @@ Perfect for cultural explorers, diaspora communities, and anyone curious about A
 
 *To view through vercel use : https://vercel.com/kaynan-mwangi-kurarus-projects/akan-name-generator
 
+* GitHub deployed link : https://kaynanmwangi.github.io/akan-name-generator/
+
 ## Known Bugs
 None currently.
 
